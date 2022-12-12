@@ -1,9 +1,13 @@
 body {
-  background: #CCCCCC
+  
 }
 
 #fotoALURA1 {
   width: 100%;
+}
+
+.principal {
+background: #CCCCCC
 }
 
 h1 {
